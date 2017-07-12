@@ -1,2 +1,2 @@
-Welcome to React, Redux;
-Saga,github;
+Welcome to React Redux;
+Sagagithub;
